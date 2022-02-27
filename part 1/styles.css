@@ -1,0 +1,39 @@
+h1 {
+    font-family: Times, serif;
+    font-size: 3em;
+}
+
+h2, h3, h4, h5, h6 {
+    color: purple;
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 2em;
+    border: 0.2em solid black;
+    opacity: 0.8;
+}
+
+img[alt] {
+    color: green;
+    font-family: Arial, serif;
+    font-style: italic;
+}
+
+body {
+    background-color: rgba(235, 173, 93, 0.906);
+    font-size: 1em;
+    font-family: Georgia, serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+div.chapter {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+.chapter p {
+    margin-bottom: 1.2em;
+    line-height: 1.3;
+}
