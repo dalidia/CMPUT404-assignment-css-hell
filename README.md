@@ -22,7 +22,7 @@ HTML files originally fetched from https://www.gutenberg.org/browse/scores/top
 
 HTML Modifications
 ================
-- Added a <link rel="stylesheet" href="../styles.css"> to each file in the head element
+- Added a <link rel="stylesheet" href="styles.css"> to each file in the head element.
 
 License/Copyright
 =================
