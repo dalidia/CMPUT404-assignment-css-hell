@@ -1,0 +1,134 @@
+/* 
+Copyright 2022 Lidia Ataupillco-Ramos
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License. 
+*/
+
+/* Global Layout Set-up */
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	height: 100%;
+}
+
+header {
+	text-align:center;
+	line-height: 1.2em;
+    position: relative;
+}
+
+body {
+	margin:0;
+	padding:0;
+	font-family: 'Lato', sans-serif;
+	background: lightblue;
+	text-align: justify;
+}
+
+main {
+	margin-left:2.5em;
+	margin-right:2.5em;
+    position: relative;
+
+}
+
+/* Link Style */
+
+a {
+	color:blue;
+	text-decoration:none;
+}
+
+a:hover {
+	color:white;
+}
+
+/* Section styles */
+
+.main-nav {
+	height:100%;
+    width: 25%;
+	background:purple;
+    position: fixed;
+    text-align: center;
+	padding: .5em;
+    min-width: 10em;
+}
+
+.nav {
+	justify-content: space-around;
+	font-weight: 900;
+	list-style-type:none;
+	padding:0;
+	margin: 0 auto;
+	font-size: 1.4em;
+}
+
+.nav li {
+	padding: 1em 1em .3em 1em;
+}
+
+.nav a {
+	transition: all .5s;
+	color:white;
+}
+
+header .profile-pic {
+	border-radius: 20%;
+	border: solid 4px white;
+	width:15em;
+	height:15em;
+	margin-top:6em;
+}
+
+.content {
+    margin-left: max(10em, 25%);
+}
+
+.copyright {
+	background-color: rgba(247, 228, 186, 0.988);
+	color: black;
+	padding: .5em 0;
+	text-align: center;
+	font-size: .9em;
+}
+
+.title-name {
+	color:purple;
+}
+
+.list-description {
+	padding-left: 1em;
+}
+
+.section-title {
+	color:purple;
+	text-decoration:underline;
+}
+
+.section-tile {
+	background-color:#dee2e5;
+	padding:.6em 2.3em .8em 2.3em;
+	margin: 1.7em;
+	width:90%;
+	border-radius: 1.5em;
+}
+
+.projects {
+	background-color: burlywood;
+	padding: .1em 1.5em;
+	margin-bottom: 2em;
+	border-radius: 1em;
+}
