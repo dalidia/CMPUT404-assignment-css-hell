@@ -90,7 +90,6 @@ a:hover {
 
 header .profile-pic {
 	border-radius: 20%;
-	/* border: solid 4px white; */
 	width:15em;
 	height:15em;
 	margin-top:6em;
@@ -131,7 +130,6 @@ header .profile-pic:hover {
 	padding:.6em 2.3em .8em 2.3em;
 	margin: 1.7em;
 	width:90%;
-	border-radius: 1.5em;
 }
 
 .projects {

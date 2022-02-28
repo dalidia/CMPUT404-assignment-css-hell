@@ -66,7 +66,7 @@ a:hover {
 	padding: .5em;
     min-width: 10em;
 }
-/* margin-left: max(10em,25%); */
+
 .nav {
 	justify-content: space-around;
 	font-weight: 900;
@@ -96,7 +96,6 @@ header .profile-pic {
 .content {
     margin-left: max(10em, 25%);
 }
-
 
 .copyright {
 	background-color: rgba(247, 228, 186, 0.988);

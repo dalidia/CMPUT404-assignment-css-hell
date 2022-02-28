@@ -12,8 +12,7 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
-Part 1
-Image content 
+Part 1 content 
 ================
 HTML files originally fetched from https://www.gutenberg.org/browse/scores/top
 - [A Tale of Two Cities by Charles Dickens](https://www.gutenberg.org/files/98/98-h/98-h.htm)
@@ -22,7 +21,15 @@ HTML files originally fetched from https://www.gutenberg.org/browse/scores/top
 
 HTML Modifications
 ================
-- Added a <link rel="stylesheet" href="styles.css"> to each file in the head element.
+- Added a <link rel="stylesheet" href="styles.css"> to each gutenberg file in the head element.
+
+Part 2 Content
+================
+- Homepage good html file based from my (own personal website)[https://dalidia.github.io/dalidia-personal-website/]
+
+References
+================
+- Used (MDN Web Docs)[https://developer.mozilla.org/en-US/docs/Web/CSS] for CSS references
 
 License/Copyright
 =================
@@ -31,6 +38,6 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 
-Code is licensed under the Apache 2.0 license.
+Code is licensed under the Apache 2.0 license to Lidia Ataupillco Ramos (C) 2022.
 
 
