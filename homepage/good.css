@@ -84,16 +84,7 @@ a:hover {
 	transition: all .5s;
 	color:white;
 }
-/* 
-.nav a:hover {
-	color:black;
-}
 
-#name {
-	margin-left: 0;
-	padding-left: 0;
-}
-*/
 header .profile-pic {
 	border-radius: 20%;
 	border: solid 4px white;
@@ -101,41 +92,6 @@ header .profile-pic {
 	height:15em;
 	margin-top:6em;
 }
-/*
-header .profile-pic:hover {
-	transform: scale(1.1) rotate(360deg);
-	transition: all .5s;
-}
-
-.contact-section {
-	margin-left:4.5em;
-	margin-right:2.5em;
-	margin-bottom: 2.5em;
-	margin-top:-1em;
-}
-
-
-.section-title {
-	color:purple;
-	text-decoration:underline;
-}
-
-.line-size {
-	margin-bottom: 2em;
-}
-
-.projects {
-	background-color: burlywood;
-	padding: .1em 1.5em;
-	margin-bottom: 2em;
-	border-radius: 1em;
-}
-
-
-
-#volunteer-experience-nav-bottom {
-	margin-top: 5em;
-} */
 
 .content {
     margin-left: max(10em, 25%);
