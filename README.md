@@ -30,6 +30,8 @@ Part 2 Content
 References
 ================
 - Used (MDN Web Docs)[https://developer.mozilla.org/en-US/docs/Web/CSS] for CSS references
+- Star.png image extracted from https://cliparting.com/star-clipart/ 
+- Clouds.jpeg image extracted from https://unsplash.com/images/nature/cloud
 
 License/Copyright
 =================
